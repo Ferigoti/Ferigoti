@@ -10,6 +10,7 @@
   <br/>
   <br/>
 </div>
+
 ## 👨‍💻 Sobre mim
 
 Atuação em ambiente de produção desenvolvendo e mantendo soluções backend focadas em processamento de dados, integração entre sistemas e escalabilidade.
