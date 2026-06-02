@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá, eu sou o João Ferigoti! 👋</h1>
   <h3>Desenvolvedor Backend </h3>
-  <p>Estudante de Análise e Desenvolvimento de Sistemas • Joinville, SC, Brasil</p>
+  <p>Joinville, SC, Brasil</p>
   
   <br/>
   
@@ -12,10 +12,14 @@
 </div>
 ## 👨‍💻 Sobre mim
 
-* ⚙️ Atuo com **Desenvolvimento Backend** e **Automação Industrial** (APIs, Edge Servers, MQTT, Modbus).
-* 📊 Tenho experiência com integrações, fluxos de tratamento de dados e criação de dashboards de monitoramento.
-* 🎓 Atualmente estudando Análise e Desenvolvimento de Sistemas.
+Atuação em ambiente de produção desenvolvendo e mantendo soluções backend focadas em processamento de dados, integração entre sistemas e escalabilidade.
 
+* 🚀 **Desenvolvimento de pipelines de dados** para manipulação e disponibilização de informações.
+* 🔌 **Criação de APIs REST** com foco em performance e segurança.
+* 🗄️ **Modelagem e otimização** de bancos de dados relacionais.
+* ⚙️ **Automação de processos internos**, reduzindo esforço operacional.
+* 🐳 **Deploy e infraestrutura**, padronização de ambientes com Docker.
+* 📈 **Monitoramento de aplicações** em produção e melhoria contínua.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -51,6 +55,5 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ferigoti&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferigoti&layout=compact&theme=dark" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ferigoti&theme=dark" height="150" alt="Linguagens por Repositório" />
 </div>
